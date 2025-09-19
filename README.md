@@ -14,7 +14,7 @@ The full form of an ARM is an advanced reduced instruction set computer (RISC) m
  1. click on STM 32 CUBE IDE, the following screen will appear 
  ![image](https://user-images.githubusercontent.com/36288975/226189166-ac10578c-c059-40e7-8b80-9f84f64bf088.png)
 
- 2. click on FILE, click on new stm 32 project 
+2. click on FILE, click on new stm 32 project 
  ![image](https://user-images.githubusercontent.com/36288975/226189215-2d13ebfb-507f-44fc-b772-02232e97c0e3.png)
 ![image](https://user-images.githubusercontent.com/36288975/226189230-bf2d90dd-9695-4aaf-b2a6-6d66454e81fc.png)
 3. select the target to be programmed  as shown below and click on next 
@@ -36,21 +36,23 @@ The full form of an ARM is an advanced reduced instruction set computer (RISC) m
 7.click on cntrl+S , automaticall C program will be generated 
 ![image](https://user-images.githubusercontent.com/36288975/226189443-8b43451d-0b14-47e4-a20b-cc09c6ad8458.png)
 ![image](https://user-images.githubusercontent.com/36288975/226189450-85ffa969-2ffb-4788-81e5-72d60fdda0f1.png)
+
 8. edit the program and as per required 
 ![image](https://user-images.githubusercontent.com/36288975/226189461-a573e62f-a109-4631-a250-a20925758fe0.png)
 
 9. use project and build all 
 ![image](https://user-images.githubusercontent.com/36288975/226189554-3f7101ac-3f41-48fc-abc7-480bd6218dec.png)
-10. once the project is bulild 
+
+11. once the project is bulild 
 ![image](https://user-images.githubusercontent.com/36288975/226189577-c61cc1eb-3990-4968-8aa6-aefffc766b70.png)
 
-11. click on debug option 
+12. click on debug option 
 ![image](https://user-images.githubusercontent.com/36288975/226189625-37daa9a3-62e9-42b5-a5ce-2ac63345905b.png)
 
-12. connect the  ARM board to power supply and usb 
+13. connect the  ARM board to power supply and usb 
 
 
-13. check for execution of the output using run option 
+14. check for execution of the output using run option 
 
 
 
