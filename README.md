@@ -295,13 +295,16 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output screen shots of proteus :
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/43626ded-ef60-4f80-b217-0882cac748d7" />
 
  
 ## Proteus layout(Add pdf screen shot of circuit here):
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a8eeb5f3-9cb4-424e-b6c6-e916f71419cf" />
 
  
  
 ## Result :
+
 Interfacing a digital Input (Pushbutton ) with ARM microcontroller based IOT development is executed and the results are verified.
