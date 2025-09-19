@@ -1,7 +1,7 @@
 # EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD
 
-Name : Manisha selvakumari.S.S.
-Ref No : 212223220055
+# Name : Manisha selvakumari.S.S.
+# Ref No : 212223220055
 
 ## Aim: To Interface a Digital Input  (userpush button  ) to ARM   development board and write a  program to obtain  the data and flash the led  
 ## Components required: STM32 CUBE IDE, ARM IOT development board,  STM programmer tool.
