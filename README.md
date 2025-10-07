@@ -4,12 +4,12 @@
 # Ref No : 212223220055
 
 ## Aim: To Interface a Digital Input  (userpush button  ) to ARM   development board and write a  program to obtain  the data and flash the led  
+
 ## Components required: STM32 CUBE IDE, ARM IOT development board,  STM programmer tool.
+
 ## Theory 
 The full form of an ARM is an advanced reduced instruction set computer (RISC) machine, and it is a 32-bit processor architecture expanded by ARM holdings. The applications of an ARM processor include several microcontrollers as well as processors. The architecture of an ARM processor was licensed by many corporations for designing ARM processor-based SoC products and CPUs. This allows the corporations to manufacture their products using ARM architecture. Likewise, all main semiconductor companies will make ARM-based SOCs such as Samsung, Atmel, TI etc.
 
- 
-  
 ## Procedure:
  1. click on STM 32 CUBE IDE, the following screen will appear 
  ![image](https://user-images.githubusercontent.com/36288975/226189166-ac10578c-c059-40e7-8b80-9f84f64bf088.png)
@@ -53,8 +53,6 @@ The full form of an ARM is an advanced reduced instruction set computer (RISC) m
 
 
 14. check for execution of the output using run option 
-
-
 
 ## STM 32 CUBE PROGRAM :
 ```
@@ -341,17 +339,13 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ```
 
-
 ## Output screen shots of proteus :
 
 <img width="579" height="1280" alt="image" src="https://github.com/user-attachments/assets/d0a31344-16dc-40e6-8b6c-59cf45b46afb" />
+
+
 <img width="579" height="1280" alt="image" src="https://github.com/user-attachments/assets/44552861-d986-4fd1-9a08-cf6749f74719" />
 
-
- 
-
- 
- 
 ## Result :
 
 Interfacing a digital Input (Pushbutton ) with ARM microcontroller based IOT development is executed and the results are verified.
